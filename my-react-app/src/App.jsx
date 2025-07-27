@@ -1,12 +1,12 @@
-import List from "./List";
+import Button from './Button.jsx'
 
 
 function App(){
   return(
-    <>
-      <List/>
-    </>
-  );
+  <>
+    <Button/>
+  </>
+  )
 }
 
 export default App
